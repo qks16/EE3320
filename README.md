@@ -1,2 +1,2 @@
 # EE3320
-repository containing source code for my microprocessors class
+repository containing source code for my microprocessors class.
